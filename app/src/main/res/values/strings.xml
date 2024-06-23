@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_xfermode">Xfermode</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="tab_text_home">Home</string>
+    <string name="tab_text_dashboard">Dashboard</string>
+    <string name="tab_text_pie">Pie</string>
+    <string name="tab_text_xfermode">Xfermode</string>
+    <string name="tab_text_shader">Shader</string>
+    <string name="tab_text_porter">PorterDuff</string>
+    <string name="tab_text_maskFilter">MaskFilter</string>
+    <string name="tab_text_multiple_linear">MultipleLinear</string>
+    <string name="tab_text_static_layout">StaticLayout</string>
+    <string name="tab_text_camera">Camera</string>
+    <string name="tab_text_anima">Anima</string>
+    <string name="tab_text_animaset">AnimatorSet</string>
+    <string name="tab_text_animaPoint">AnimatorPoint</string>
+    <string name="tab_text_drawable">Drawable</string>
+    <string name="tab_text_material">Material</string>
+    <string name="tab_text_layout">Layout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
